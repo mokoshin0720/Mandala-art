@@ -1,8 +1,9 @@
 # Mandala-art
 
-# 言語
-c++ 
-openFrameworks
+# 言語 / 制作期間
+c++ / openFrameworks
+<br/>
+制作期間：10日ほど
 
 # 仕様
 時間に応じて、中心の花が回転する
