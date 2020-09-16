@@ -1,4 +1,4 @@
-# Mandala-art
+# 曼荼羅アート
 
 # 言語 / 制作期間
 c++ / openFrameworks
